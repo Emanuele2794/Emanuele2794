@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emanuele2794
 - 👀 I’m interested in learning and master web design
-- 🌱 I’m currently learning HTML, CSS, Bootstrap and then JavaScript, React and Angular
+- 🌱 I’m currently learning HTML, CSS, Bootstrap. Next steps: JavaScript, React and Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: @rappa94 on Twitter and Emanuele Rappa on LinkedIn
 
