@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Emanuele
-- 👀 I’m interested in learning and master web design
-- 🌱 I’m currently learning HTML, CSS, Bootstrap, JavaScript Next steps: JQuery, React/Angular, GitHub
+- 👋 Hi, I’m Emanuele. I currently work as a Communication Specialist in an italian Scale Up company.
+- 👀 I’m a very curios person and now I am interested in learning and master web design.
+- 🌱 Currently I can easily create simple websites and landing pages in HTML, CSS, Bootstrap. I'm currently learning JavaScript and JQuery. Next steps: React/Angular, GitHub
+- My first projects are here on GitHub, even my personal website.
 - 📫 How to reach me: @rappa94 on Twitter and Emanuele Rappa on LinkedIn
 
 <!---
